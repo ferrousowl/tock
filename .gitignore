@@ -1,0 +1,10 @@
+node_modules/
+dist/
+out/
+cache/
+broadcast/
+.env
+.env.*
+!.env.example
+!.env.production
+*.key

@@ -1,0 +1,7 @@
+{
+  "name": "tock-keeper",
+  "private": true,
+  "type": "module",
+  "scripts": { "keeper": "node keeper.mjs" },
+  "dependencies": { "viem": "^2.57.2" }
+}
