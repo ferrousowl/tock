@@ -4,8 +4,10 @@
 
 No server to keep alive, no keeper token, no price oracle, no admin keys.
 
-- **App:** _added at deployment_
-- **Contract (Arc mainnet, chain 5042):** _added at deployment_
+- **App:** https://ferrousowl.github.io/tock/
+- **Contract (Arc mainnet, chain 5042):** [`0x3d5414F772Ce5667b13DfB9339a03072fd904F35`](https://explorer.arc.io/address/0x3d5414F772Ce5667b13DfB9339a03072fd904F35)
+
+The live deployment carries two jobs we run ourselves, both labelled "Demo": one settles the hourly demo payment of our sister project [Standing](https://github.com/ferrousowl/standing), the other sends 0.01 USDC a day. They are demonstrations, not usage.
 
 ## Why
 
